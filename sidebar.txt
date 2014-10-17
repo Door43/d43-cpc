@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cpc:home|Door43 (cpc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cpc|d43-cpc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cpc/archive/master.zip|d43-cpc.zip]]
+
+**Recent Changes**
+{{changes>ns = cpc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cpc|Ethnologue data]]
+
